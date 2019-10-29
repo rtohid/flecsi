@@ -16,6 +16,10 @@ builds
 *.aux
 .vscode
 
+spack-build-env.txt
+spack-build-out.txt
+spack-build/
+
 /flecsi/tutorial/*/*.tex
 /flecsi/tutorial/*/*.log
 /flecsi/tutorial/*/*.aux
